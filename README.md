@@ -1,3 +1,5 @@
 # Todo list
- My very first code
+## Introduction
+This is my very first project of coding. This Project will be a todo list
+
  --- Still on process ---
